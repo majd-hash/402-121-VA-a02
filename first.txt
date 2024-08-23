@@ -1,2 +1,2 @@
 This is my first file.
-It is a shitty file.
+It is a great file.
